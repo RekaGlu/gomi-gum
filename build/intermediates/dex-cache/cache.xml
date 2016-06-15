@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\REKA\Documents\Proyecto libGDX\Juego acabado\Juego v2\Juego v2\Juego\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b627f1932cda5c58957b93fc0b429b17a08a0652">
+        <dex dex="C:\Users\REKA\Documents\Proyecto libGDX\Juego acabado\Juego v2\Juego v2\Juego\android\build\intermediates\pre-dexed\debug\core-1.0_550d6d4455024c872f8aceba103eda50bef9ac1b.jar" />
+    </item>
+
+</items>
