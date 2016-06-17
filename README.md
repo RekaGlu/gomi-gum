@@ -1,2 +1,2 @@
-# gomi-gum
-Mi primero juego usando libGDX
+# Gomi Gum
+Mi primer videojuego usando libGDX
